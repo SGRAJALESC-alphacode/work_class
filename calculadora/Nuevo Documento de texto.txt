@@ -1,0 +1,16 @@
+  <h1>calculadora</h1>
+
+   <h1>num 1</h1>
+   <input class="diez" type="number" name="" id="num1">
+
+   <h1>num 2</h1>
+   <input class="once" type="number" name="" id="num2">
+
+   <br>
+   <button class="doce" onclick="suma()">+</button>
+   <button class="trece" onclick="resta()">-</button>
+   <button class="catorce" onclick="multi()">x</button>
+   <button class="quince" onclick="divi()">/</button>
+   <button  class="veinte" onclick="cleaner()">CE</button>
+
+   <button class="treinta" onclick="carita()">cara de asombro</button>

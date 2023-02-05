@@ -1,0 +1,129 @@
+
+
+body {
+    font-family: arial;
+    background-image: url('../img/1.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.diez{
+    background: rgba(43, 255, 0, 0.822);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;   
+    opacity: 0.5;
+    font-size: 1.1em;
+    width: 150px;
+    cursor: pointer;
+    padding: 15px;
+}
+
+.diez:hover {
+    opacity: 1;
+}
+
+.once{
+    background: rgba(200, 217, 13, 0.822);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;   
+    opacity: 0.5;
+    font-size: 1.1em;
+    width: 150px;
+    cursor: pointer;
+    padding: 15px;
+}
+
+.once:hover {
+    opacity: 1;
+}
+
+.doce{
+    background: rgba(255, 0, 0, 0.822);
+    color: rgb(0, 0, 0);
+    border-radius: 30px;   
+    opacity: 0.5;
+    font-size: 1.1em;
+    width: 150px;
+    cursor: pointer;
+    padding: 15px;
+}
+
+.doce:hover {
+    opacity: 1;
+}
+
+.trece{
+    background: rgba(62, 212, 16, 0.822);
+    color: rgb(250, 250, 250);
+    border-radius: 30px;   
+    opacity: 0.5;
+    font-size: 1.1em;
+    width: 150px;
+    cursor: pointer;
+    padding: 15px;
+}
+
+.trece:hover {
+    opacity: 1;
+}
+
+.catorce{
+    background: rgba(231, 235, 15, 0.822);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;   
+    opacity: 0.5;
+    font-size: 1.1em;
+    width: 150px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.catorce:hover {
+    opacity: 1;
+}
+
+.quince{
+    background: rgba(25, 176, 236, 0.822);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;   
+    opacity: 0.5;
+    font-size: 1.1em;
+    width: 150px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.quince:hover {
+    opacity: 1;
+}
+
+.veinte{
+    background: rgba(255, 0, 153, 0.822);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;   
+    opacity: 0.5;
+    font-size: 1.1em;
+    width: 150px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.veinte:hover {
+    opacity: 1;
+}
+
+.treinta{
+    background: rgba(255, 0, 153, 0.822);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;   
+    opacity: 0.5;
+    font-size: 1.1em;
+    width: 150px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.treinta:hover {
+    opacity: 1;
+}
